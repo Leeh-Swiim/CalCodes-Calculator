@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591926241 source:/home/pedrockzz/Codes/Projeto Integrador/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1592353471 source:/home/pedrockzz/CalCodes-Calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
